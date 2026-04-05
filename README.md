@@ -55,6 +55,6 @@ Requiere ~30 minutos con GPU activada.
 - KaggleHub
 
 ## 👤 Autor
-**Tu Nombre Completo**  
-Curso: Nombre del curso  
+**Myriam Cristina Berrío Hernández**  
+Curso: Tópicos de ML + NN
 Fecha: Abril 2026
